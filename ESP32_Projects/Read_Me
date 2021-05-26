@@ -1,1 +1,9 @@
-Here you will find all of my projects with the NodeMCU 32s develipment board.
+Here you will find all of my projects with the NodeMCU 32s development board.
+Starting with operating a 16-channel relay with Alexa without any third-party apps
+Next, I will be adding both a I2C Multi plexor and 4 LCD that have the same Address
+Next, we will add 2 Temperature and humidity sensors and an OLED display to display all of the information.
+Then we will add 2 ultrasonic sensors and second OLED display.
+1 to measure water level and turn on the desalinization system when the water level gets to low and turn it off when the tank is full.
+The second one will show level of the gray water tank, both will be displayed on the second OLED display
+And at this time the last will be to build an elevator using the sensor and RF receiver to turn the winch on and off and weather to go up or down.
+Now somewhere along the way I will be putting an 433mz receiver to operate the light manually.
