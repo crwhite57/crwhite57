@@ -6,3 +6,4 @@
 
 These files are all Arduino IDE sketches. The ESP32.zip is the test sketch and sketch program for operate 16 channel relay
 with Alexa without any 3rd party apps.
+The Wemos file is the same thing except it is only 4 channels that will work with the Wemos D1 Mini and the Wemos D1 R2.
