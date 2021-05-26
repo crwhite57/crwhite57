@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: crwhite57@gmail.com...
 
-<!---
-crwhite57/crwhite57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+These files are all Arduino IDE sketches. The ESP32.zip is the test sketch and sketch program for operate 16 channel relay
+with Alexa without any 3rd party apps.
