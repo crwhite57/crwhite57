@@ -79,7 +79,7 @@ void setup()
 void loop()
 {
    espalexa.loop();
-   delay(10);
+   delay(10); // This delay was originaly set at 1, but I agusted it to 10 to give alexa time to find a device. (1) was to fast and alexa would not find all devices
 }
 
 //our callback functions
