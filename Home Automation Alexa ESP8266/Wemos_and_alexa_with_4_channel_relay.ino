@@ -79,7 +79,7 @@ void setup()
 void loop()
 {
    espalexa.loop();
-   delay(1);
+   delay(10);
 }
 
 //our callback functions
