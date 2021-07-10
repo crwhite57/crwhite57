@@ -1,1 +1,3 @@
- 
+ This file is an Arduino IDE sketch to operate 4 relays with Alexa. It also uses 1 liquid crystal display to show the status of each relay. 
+ Modify it to fit your needs. Watch the video for further discription and how it works.
+https://youtu.be/IZrxIqDUxRI
