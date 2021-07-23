@@ -1,3 +1,8 @@
-I will post the codes for this part of the project once the youtube video is up.
-It is an add-on to the Alexa with 16 channel relay.
-Here we are adding 4 LCDs to display the situation of the lights (Relays)
+In the previous projects we covered how to use Alexa and an ESP8266 to operate 4 relays,
+an ESP32S to operate 16 relays, explain the I2C bus and how to use an LCD to show you the status
+of 4 relays.
+This part expands on all of the others. Here we will show you how to use 4 I2C devices that all have
+the same address by using an I2C multplexor and have it show the status of all 16 relays.
+Watch this video for a full explination of this Arduino sketch and how to use multiple I2C devices
+at the same time that have the same addresses.
+https://youtu.be/8NnFFMyaHkM
